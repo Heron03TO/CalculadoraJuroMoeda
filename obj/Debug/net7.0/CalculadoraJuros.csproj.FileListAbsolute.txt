@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\bin\Debug\net7.0\CalculadoraJuros.exe
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\bin\Debug\net7.0\CalculadoraJuros.deps.json
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\bin\Debug\net7.0\CalculadoraJuros.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\bin\Debug\net7.0\CalculadoraJuros.dll
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\bin\Debug\net7.0\CalculadoraJuros.pdb
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.dll
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\refint\CalculadoraJuros.dll
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.pdb
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\CalculadoraJuros.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\CalculadoraJuros\obj\Debug\net7.0\ref\CalculadoraJuros.dll

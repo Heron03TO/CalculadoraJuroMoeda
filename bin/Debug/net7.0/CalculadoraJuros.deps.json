@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CalculadoraJuros/1.0.0": {
+        "runtime": {
+          "CalculadoraJuros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraJuros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
